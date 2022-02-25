@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The plain truth, or, A lenitive for the clergy by one Pantophilus.</title>
+            <author>Pantophilus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54984</idno>
+            <idno type="STC">Wing P2369</idno>
+            <idno type="STC">ESTC R16071</idno>
+            <idno type="EEBO-CITATION">12545127</idno>
+            <idno type="OCLC">ocm 12545127</idno>
+            <idno type="VID">63031</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63031)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 946:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The plain truth, or, A lenitive for the clergy by one Pantophilus.</title>
+                  <author>Pantophilus.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Freedom of religion --  Great Britain.</term>
+               <term>Dissenters, Religious --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:63031:1" rendition="simple:additions"/>
+            <head>
+               <hi>The Plain Truth.</hi> OR, A Lenitive for the CLERGY.</head>
+            <byline>By one <hi>Pantophilus.</hi>
+            </byline>
+            <p>IT is manifeſt that we in this Nation are in a diſquiet, and in an uncomfortable poſture. Now as it behoves every man to have a well-grounded calmneſs in his own breaſt; ſo we ought, by all good means, to promote it in the Church of God where we live: If I had not a true Deſire to further this, I had never ſet Pen to Paper this way. But having lookt upon moſt of the Books and Pamphlets, that have been ſent abroad for theſe ſeveral years, eſpecially ſince the Preſs was at liberty, ſuch I mean as concern Religion, I have with Grief obſerv'd a Fatal Ferment in moſt of them; The Wiſe God having ſeem'd to leave us to our ſelves, fooliſhly to ruine one another. Each Book and Pamphlet being pregnant with preternatural heat a<g ref="char:EOLhyphen"/>gainſt the Oppoſite Party; each Company and Diſcourſe imploy'd in unkind reflections upon others: yea, matters are come to that paſs, that even among the Clergy, it is rare to ſee the Gown and Cloak walk or ſit eaſily together; and which is worſt of all, the Pulpit is abus'd by ſome on all ſides to caſt Oyl into this woful Flame. I have made it my Prayer, that the God of Love and Peace would calm this Fury; and in my converſe have conſtantly endeavor'd it; and finding this Feaver ſtill to continue, reſolv'd to deliver my Thoughts in Writing to the ſame end, with all ſerious plainneſs.</p>
+            <p>The Parties diſagreeing in Religion in this Kingdom may be re<g ref="char:EOLhyphen"/>duc'd to four heads.</p>
+            <p n="1">1. There is the Eſtabliſhed Church, conſiſting of the Clergy and Laity that approve of full Conformity in the Rites and Diſcipline ſetled by the Laws of the Land.</p>
+            <p n="2">
+               <pb n="2" facs="tcp:63031:2"/>2. There are the Papiſts, who differ from this Church in many great Doctrins, in many material points of Worſhip, and with an inveterate enmity. Theſe are the moſt formidable Enemies to the Church aforeſaid; partly by reaſon of their Forreign Alliances and Dependencies, and partly by the incouragement they have from a Preſumptive Heir. And they are the moſt irreconcileable alſo, part<g ref="char:EOLhyphen"/>ly by reaſon of their avowed Principle, <hi>That their Church cannot erre,</hi> and conſequently are fully concluded againſt any Reformation in it; and partly by their conſtant practice of Equivocations and Diſpenſa<g ref="char:EOLhyphen"/>tions, which renders it impoſſible ro truſt them. And therefore theſe Eſſays pretend not to include them.</p>
+            <p n="3">3. There are the <hi>Non-conformiſts ſtrictly ſo called;</hi> which are thoſe of the Clergy and Laity, that agreeing with the Eſtabliſhed Church in the ſubſtance of Doctrine and Worſhip, yet differ in the Rites or Manner of worſhip and in Diſcipline. And under this Head may be rank'd thoſe called <hi>Presbyterians, Independents</hi> and meer <hi>Ana<g ref="char:EOLhyphen"/>baptiſts.</hi> Now theſe being ſo neerly Allied to the Eſtabliſh'd Church, might expect far other treatment from them than the Papiſts; but that there fell out ſome years ſince, a Civil War in the Kingdom, wherein theſe two parties prov'd oppoſite to one another, and the former were vanquiſht by the latter. And this I conceive hath heightned the Enmity far above the matter of their Reall Difference, this Party in Religion, though doubtleſs they could be glad to have their way, yea each one their own way ſetled; yet they could be contented (ſome raſh and furious Perſons excepted, whereof there are ſome in all parties) to be ſafely United with the Eſtabliſhed Church, or quietly ſuffered in their own practice. Neither have they any Forreign Dependencies, nor any Principles that lead them to Sedition, as appears by their quietneſs under great provocations, while the other ſort, the Papiſts, cannot be quiet, when no body troubles them.</p>
+            <p n="4">4. There are others amongſt us, different from all the former; ſuch are <hi>Atheiſts, Socinians, Pelagians, Quakers, Ranters, Fifth-Monarchiſts</hi> and other Hereticks; now theſe though their Principles are pernicious to themſelves and others, and therefore fit it were, ſome Courſe were taken to convince them or reſtrain them; yet they have no Forreign Helps or Confederacies to create much danger to our Publick Peace. But theſe are ſo greatly oppoſite, either to the Eſtabliſhed Doctrine, or Subſtantial Worſhip, that as there is no likelihood of their Union, ſo theſe Papers are not concern'd fur<g ref="char:EOLhyphen"/>ther with them. So that this Indeavour is intended cheifly for the Firſt and Third ſort, which are neereſt akin.</p>
+            <p>And to bring down the matter to our preſent Caſe, it is found out, by Our King, Parliaments, Judges, &amp;c. That there hath been, and yet there is an Helliſh Plot amongſt theſe Papiſts, to deſtroy his Ma<g ref="char:EOLhyphen"/>jeſty, to overthrow the Proteſtant Religion with all that profeſs it in the Kingdom, and to ſet up Popery. Immediately upon this Alarm,
+<pb n="3" facs="tcp:63031:2"/>as the Civill Magiſtrates were trying the Criminals, ſo the Clergy both the Conformiſts and the Nonconformiſts directed their Diſ<g ref="char:EOLhyphen"/>courſes to expoſe that Treacherous and Bloody Religion, and to eſtabliſh the people in our own. And being both juſtly bent a<g ref="char:EOLhyphen"/>gainſt the Common Enemy, there appeared ſome more mutuall kindneſs towards one another than before; and ſome lovers of Peace, that mourn'd for the loſs of that Hopefull Juncture in 1660, when moſt Mens Minds were very prone to Unity; and alſo the loſs of that other in 1665 and 1666 when the Plague and Fire had ſoft<g ref="char:EOLhyphen"/>ned our Spirits; They did now in 1678 renew their hopes, that this common danger would greatly tend to the healing of our Divi<g ref="char:EOLhyphen"/>ſions, when on a ſudden in 1679 without any known Occaſion the Publick Clergy begin to abate their keenneſs againſt the Papiſts, and inſtead thereof fall to batter the Non-conformiſts from Preſs and Pulpit; and would pretend that there is more danger from Sepa<g ref="char:EOLhyphen"/>ration, than from Popery: and ſome of them, I hope it is the weakeſt of them, fear not to profeſs, they would rather be Papiſts than Presbyterians; which I am very certain, no true Proteſtant will ſay, except he be blinded with Malice or Ignorance. And on the other ſide, many Cenſorious Non-conformiſts put the worſt interpretation on this carriage, and ſuſpect their oppoſites inclina<g ref="char:EOLhyphen"/>ble to Popery it ſelf; they do not ſay indeed as the former, that they had rather be of the Church of <hi>Rome,</hi> than of the Church of <hi>England;</hi> but they know well enough, that neither of them muſt expect that quarter from the Papiſts, which they have found from one another: but yet they exceed the Bounds of Charity in their harſh Reflections. And thus they ſtand pelting at one another in an uncomfortable and ominous manner, while their Common Ene<g ref="char:EOLhyphen"/>my is ready to ſwallow both, and what honeſt heart can be Specta<g ref="char:EOLhyphen"/>tor of theſe things without Grief and Aſtoniſhment.</p>
+            <p>Now if the Diſcovery of the Cauſe of a Diſeaſe be any ſtep to the cure of it, I verily believe that <hi>want</hi> of <hi>Chriſtian Love</hi> or <hi>Chari<g ref="char:EOLhyphen"/>ty</hi> is the Reall Cauſe of this fermentation. This hath been at the Root of theſe miſcarriages all along, though ſomething elſe concur's therewith to produce the preſent paroxyſm. It cannot be denied, that theſe have been mutual provocations given; one party hath been moved to ſee their Freehold and Opportunities of Service therewith, taken from them (in their Judgments) without cauſe, and contrary to thoſe Aſſurances given them, which they thought might be relyed on, and to ſee their Brethren poſſeſſing them with<g ref="char:EOLhyphen"/>out Remorſe or Pity: and then to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ind themſelves expoſ'd, re<g ref="char:EOLhyphen"/>proach'd, proſecuted, impriſon'd and undone; and this very much by the inſtigation of the Governing and other Clergy. The other party offended with the preaching of the Non-conformiſts and many peoples Reſpects unto them, and with the ſharp Reflections of ſome among them. But now Chriſtian Love might have prevented or a<g ref="char:EOLhyphen"/>bated much of this, and ſo it hath, with many wiſe and charitable perſons of either party.</p>
+            <p>
+               <pb n="4" facs="tcp:63031:3"/>Certain it is, that while we are in this imperfect ſtate we ſhall not all ſee with the ſame clearneſs, and perhaps there are no two per<g ref="char:EOLhyphen"/>ſons in the World, that have the ſame ſentiments in every thing; much leſs can it be expected in points now controverted amongſt us. Each party profeſſeth that they proceed ſincerely according to their beſt Underſtanding, the one in conformity, the other in Non-con<g ref="char:EOLhyphen"/>formity, muſt the one be judged now to comply, or the other to deſſent againſt his conſcience? God forbid. Now here comes in the Uſe of Chriſtian Love, which when it is once rooted in the Heart, it will incline the Governours of the Church ſo to calculate their Laws, Injunctions and Impoſitions about things indifferent, as may be eaſy and not grate upon Mens Conſciences. It is Paternal Love that induces many a Wiſe Father to abate his weak or ſickly children in many matters, which otherwiſe he might reaſonably re<g ref="char:EOLhyphen"/>quire of them, and to connive at many of their leſſer Faults; and ſuch kind of Love, the Governours of the Church ſhould bear to all that are under them. And it is not only Charity but Prudence, For theſe cannot chuſe but know and ſee, that violent courſes ne<g ref="char:EOLhyphen"/>ver beget any kindly compliance, and that all their ſeverities have exaſperated far more than they have reclaimed, and the ſame chari<g ref="char:EOLhyphen"/>ty ſhould teach the Non-conformiſts not to envy their honours or profits; and alſo to think that the impoſers did judge the foreſaid Rites &amp;c. to be moſt uſefull for the common good. For <hi>Charity hopeth all things</hi> poſſible, <hi>believeth all things</hi> credible, and <hi>beareth all things</hi> tolerable; Charity thinketh no evill.</p>
+            <p>But to come to the inferiour Clergy; without doubt the great Zeal we ſhould burn with, ſhould be of ſaving mens Souls: and in order thereunto that we open to them the Neceſſary Myſteries of the Chriſtian Religion, that we urge them to Repentance towards God and Faith in our Lord Jeſus Chriſt, that we diſgrace ungodlineſs and worldly Luſts, and that we promote Sobriety, Righteouſneſs and Godlineſs with all our power, in a word, all our Sermons ſhould be a kind of commentary on Our Lords Prayer, the Com<g ref="char:EOLhyphen"/>mandments and the Creed; but alas! how many of each party, imploy their time and parts in debating, confuting, expoſing and condemning their oppoſites in point of Rites and ceremonies, each party charging the other with debauching their conſciences for the ſake of Reputation or Lucre, which is the moſt Malicious Accuſati<g ref="char:EOLhyphen"/>on that can be invented in the caſe. What is it, but want of Chriſtian Love that prompts to this proceeding; what elſe ſhould bewitch thoſe men, that agree in the Doctrine of the Divine Exiſt<g ref="char:EOLhyphen"/>ence againſt Atheiſts, in the Doctrine of our Saviours Perſon and Natures againſt Arrians, Socinians and others, in the Doctrine of Gods Grace againſt the <hi>Pelagians,</hi> that agree together in Doctrine and Worſhip againſt the Papiſts, and in all other Doctrines and Duties that are neceſſary to Salvation; and yet, as if we were poſſeſt with a Spirit of Oppoſition, we let all theſe things be ſilent, and ſtill in our Diſcourſes and in our converſe we begin at the wrong end, and preſently enter into debate about Ceremonies and Go<g ref="char:EOLhyphen"/>vernment,
+<pb n="5" facs="tcp:63031:3"/>there can ſcarce a company of Conformiſts be met together, that can find any Subject to inlarge upon, but about the Non-conformiſts; and much alike is it with many of the other par<g ref="char:EOLhyphen"/>ty; and if men did obſerve themſelves well, ſuch converſe con<g ref="char:EOLhyphen"/>cerning one another is ſeldom manag'd without breach of Charity, wreſting the ſayings and putting the worſe Conſtruction on the Acti<g ref="char:EOLhyphen"/>ons, if not plain bearing falſe witneſs againſt each other. Now Chriſtian Love teaches quite other things; it inclines the Mind to think the beſt of every body, to interpret doubtful words or acti<g ref="char:EOLhyphen"/>ons in the very beſt ſence they can admit, to ſpeak of others moſt favourably, and in ſhort to love every one good or bad, as our ſelves.</p>
+            <p>The cry for Unity and Uniformity is very great; the meaning whereof is only this, you muſt renounce all your Principles and Practiſes that are repugnant to ours, that we may be one, and this is preſt from our preſent danger from our common enemy; but can any danger excuſe a man in doing what his Soul tells him is a Sin? the leaſt evill of Sin (whether ſo really, or only ſo in my judgment, all is one to me) is not to be done to prevent the greateſt penall evil in the World. Would not Riches and Honour have tempted them? would not Reproach and Poverty have urged them all this while, to abandon their uncomfortable opinions, if they could have done it honeſtly; if they could have plaid the Hypocrites, which yet is the Sin they are often charg'd with, they would ſurely have wink'd and ſwallow'd what is required of them before this day.</p>
+            <p>But now, if in ſtead of this Unity, or rather as the proper way to it, we would pray for the Reſurrection of Chriſtian Love, and ſincerely indeavour the practiſe and expreſſion of it. If we would begin to think, and to ſpeak kindly of and to one another; if we would vindicate one another as far as we can, and by our Councell and Example teach our Friends and hearers to do the like, we ſhould inſenſibly come nearer together, and with calmneſs and friendſhip diſcourſe our ſelves into ſome Tolerable Unity. For it is moſt plain, that our differences are ſwell'd with the Animoſity of either party; there being among both of them more material points than theſe wherein they differ from one another, but Love covers a multitude of Sins.</p>
+            <p>Let us then in large our Charity; let us reckon there may be and are many Upright and Holy Chriſtians on either ſide, and thoſe whom we ſhall for ever imbrace in the world to come; let us viſit one another and freely converſe of thoſe great things wherein we are fully agreed; let us ſeriouſly contrive how to promote reall Piety, and how to withſtand our implacable Enemies; let us not bite and devour one another, leſt we be devoured one with ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>
+               <pb n="6" facs="tcp:63031:4"/>It is a vain thing to ſay, it is not fit that the Eſtabliſhed Church who are in Power, Poſſeſſion and Authority ſhould bow to their Inferiours, who ſhould rather yield to them; for the things that have occaſioned this ſad breach, are in the judgment of the impo<g ref="char:EOLhyphen"/>ſers, <hi>indifferent</hi> whether uſed or not, before the impoſition of them; and they know that the Church of Chriſt did, and may ſubſiſt well enough without them; but now in the judgment of the Diſſenters, they are ſinfull, and they do unfeignedly conclude them ſuch to themſelves, according to their beſt underſtanding. And now, which party is fit to relent, or can abate, judge you; are not Kings in Supreme Power and Authority? yet how many Princes have ſtoopt ſomething for the Repoſe of their People; our Church claims no infallibility, why may ſhe not therefore open her Boſom to ſo many Proteſtants, as well as formerly ſhe did, in her Liturgy and Ceremonies to win the Papiſts. And certainly ſuch condeſcention would come better from the Church Rulers and by their mediation, than from the Secular Power, and would be the likelieſt means to heal a Diſtracted Nation.</p>
+            <p>And of this they may find the beſt examples, to wit of the Apoſtles themſelves, who being Governours in the Church, though they ex<g ref="char:EOLhyphen"/>preſt themſelves ſeverely, againſt ſuch as impos'd either their falſe Doctrines or unneceſſary Rites upon others, yet we ſhall find them gently treating and condeſcending to Honeſt Chriſtians, that were ſound in the main, though unſatisfied in other points; I hear men ſtill crying out, 'tis nothing but Obſtinacy and Humour — thoſe that Diſſent ought and might ſatisfy themſelves and ſubmit; but might not the Apoſtle <hi>Paul</hi> have replied ſo on them, that obſerved days and durſt eat only Herbs, they may if they will be ſatisfied of their Liberty, and abandon their conceit, that ſo much troubles the Church — But conſidering, that they did eat and did obſerve days to the Lord, he rather adviſeth to a mutual forbearance, by the exerciſe of Chriſtian Charity and Love.</p>
+            <p>But the common objection remains, the Rulers in the Church know not what will ſatisfy; or at leaſt, what conceſſions are likely to gratifie any conſiderable numbers; and perhaps the Non-confor<g ref="char:EOLhyphen"/>miſts have been too ſhy in making propoſals; for, I think, it is bet<g ref="char:EOLhyphen"/>ter to erre in too much plainneſs and openneſs, than in too much caution and prudence. But alas! Theſe Rulers know well enough, where the Diſſenters are prick'd; they know, that if the Orders conferr'd in the late times were made valid, when many a good Scholler was educated in a diſadvantagious Opinion of Epiſcopacy, and knew not where any one Biſhop was in the Nation to apply them<g ref="char:EOLhyphen"/>ſelves unto, how many this would bring into the Eſtabliſhed Church. That, if the Declaration about the Covenant were abated; their declaring their aſſent and conſent forborn; no other Subſcription required, ſave to the Doctrinal Part of the Nine and Thirty Articles; no Oaths impos'd, but of Allegiance and Supremacy; the Liturgy only recommended, and the Ceremonies left indifferent; how ma<g ref="char:EOLhyphen"/>ny
+<pb n="7" facs="tcp:63031:4"/>would theſe few conceſſions be likely to prevail with. But then if withall, the Inferiour Clergy were intruſted with ſome meaſure of Authority, ſo far as is neceſſary for the Honour of Gods Ordinan<g ref="char:EOLhyphen"/>ces and Good of the People; if ſerious and conſtant Preaching and Catechizing were more incouraged; if it were evident, that the Reverend Biſhops did ſincerely imbrace and countenance the moſt Learned, Holy and Induſtrious of the Clergy and Laity in their Dio<g ref="char:EOLhyphen"/>ceſſes; this would intirely win the Hearts of all Honeſt Men, and reduce thoſe who have been exaſperated, and violently driven into ſome practiſes that ſeem inconſiſtent with their old Principles. For Mans Nature is ſo molded, that Love and Kindneſs have the moſt powerfull operations upon it; and a curteous expreſſion will make the Sword fall out of a mans hand, who in heat of oppoſition would rather dye than yield.</p>
+            <p>However if this Bleſſing be too great and good for us, this I abide by, that during our ſad diſtances in theſe matters, we are all bound by the Royal Law of Chriſt, to love one another ſincerely, and in all occaſions to expreſs the ſame; and I purpoſely repeat it, to think of each others Perſons and Actions with charity, to ſpeak of them with charity, and to Act accordingly towards one another in every inſtance with charity. But you will ſay, our charity muſt not be blind; we muſt not call evill good, and good evill; I grant this, but withall I averr, that Charity is not ſevere, is not cenſo<g ref="char:EOLhyphen"/>rious, is dim-ſighted in the faults of others, and curious in our own: do but put the beſt conſtruction on each others words and actions, and maintain the moſt favourable opinion of each others Perſons and Deſigns, and this will create the ſweeteſt calm in your own Souls, and inſenſibly tend to our Peace and Union; and without this, let us be never ſo Orthodox, never ſo Zealous, never ſo high or low; never ſo Dignified or ſo Oppreſſed, we want one of the greateſt Excellencies of God, one of the greateſt Accompliſhments of Men, one of the greateſt Graces of Chriſtians, for when once our inveterate diſeaſe hath ſpent it ſelf, and that we are once wearied with our ſtraglings, and come to a conſiſtencie of mind; we ſhall ſee that we can never be ſafe or happy, till by all poſſible Abatement on the one hand, and all poſſible compliance on the other, we be firmly link't together in one Soul, and one Body. God of his great Mercy pour down the Spirit of Humility, Sanctity and Charity into all our Hearts! <hi>Amen, Amen.</hi>
+            </p>
+            <closer>
+               <date>
+                  <hi>March</hi> 4. 1680/81.</date>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Thomas Parkhurſt,</hi> at the <hi>Three Bibles</hi> and <hi>Crown</hi> at the Lower end of <hi>Cheap-ſide.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
